@@ -1,0 +1,1045 @@
+{
+  "schema_version": "1.0.0",
+  "language": "en-US",
+  "description": "Eight everyday English speaking lessons. Each lesson contains exactly 20 TTS-ready sentences.",
+  "audio_generation_notes": {
+    "use_text_field_verbatim": true,
+    "keep_punctuation": true,
+    "file_naming_pattern": "{lesson_id}/{sentence_id}.mp3",
+    "recommended_format": "mp3"
+  },
+  "lessons": [
+    {
+      "id": "introducing-yourself",
+      "title": "Introducing Yourself",
+      "title_vi": "Giới thiệu bản thân",
+      "level": "A1",
+      "topic": "personal_information",
+      "sentences": [
+        {
+          "id": "introducing-yourself-01",
+          "text": "Hi, my name is Daniel, and it's nice to meet you.",
+          "translation": "Chào bạn, tôi tên là Daniel, và rất vui được gặp bạn.",
+          "audio_file": "introducing-yourself/introducing-yourself-01.mp3"
+        },
+        {
+          "id": "introducing-yourself-02",
+          "text": "I'm twenty-eight years old, and I'm originally from Canada.",
+          "translation": "Tôi 28 tuổi, và tôi vốn đến từ Canada.",
+          "audio_file": "introducing-yourself/introducing-yourself-02.mp3"
+        },
+        {
+          "id": "introducing-yourself-03",
+          "text": "I grew up in a small town near Toronto.",
+          "translation": "Tôi lớn lên ở một thị trấn nhỏ gần Toronto.",
+          "audio_file": "introducing-yourself/introducing-yourself-03.mp3"
+        },
+        {
+          "id": "introducing-yourself-04",
+          "text": "These days, I live in Ho Chi Minh City.",
+          "translation": "Hiện nay, tôi sống ở Thành phố Hồ Chí Minh.",
+          "audio_file": "introducing-yourself/introducing-yourself-04.mp3"
+        },
+        {
+          "id": "introducing-yourself-05",
+          "text": "I've been living here for almost two years.",
+          "translation": "Tôi đã sống ở đây được gần hai năm.",
+          "audio_file": "introducing-yourself/introducing-yourself-05.mp3"
+        },
+        {
+          "id": "introducing-yourself-06",
+          "text": "I work as a product designer for a software company.",
+          "translation": "Tôi làm nhà thiết kế sản phẩm cho một công ty phần mềm.",
+          "audio_file": "introducing-yourself/introducing-yourself-06.mp3"
+        },
+        {
+          "id": "introducing-yourself-07",
+          "text": "Most of my work involves talking to users and solving problems.",
+          "translation": "Phần lớn công việc của tôi là trò chuyện với người dùng và giải quyết vấn đề.",
+          "audio_file": "introducing-yourself/introducing-yourself-07.mp3"
+        },
+        {
+          "id": "introducing-yourself-08",
+          "text": "It can be challenging, but I really enjoy it.",
+          "translation": "Công việc đôi khi khá thử thách, nhưng tôi thực sự thích nó.",
+          "audio_file": "introducing-yourself/introducing-yourself-08.mp3"
+        },
+        {
+          "id": "introducing-yourself-09",
+          "text": "In my free time, I like reading, cooking, and taking photos.",
+          "translation": "Khi rảnh, tôi thích đọc sách, nấu ăn và chụp ảnh.",
+          "audio_file": "introducing-yourself/introducing-yourself-09.mp3"
+        },
+        {
+          "id": "introducing-yourself-10",
+          "text": "I'm also trying to learn how to play the guitar.",
+          "translation": "Tôi cũng đang cố gắng học chơi đàn guitar.",
+          "audio_file": "introducing-yourself/introducing-yourself-10.mp3"
+        },
+        {
+          "id": "introducing-yourself-11",
+          "text": "I'm not very good at it yet, but I'm getting better.",
+          "translation": "Tôi vẫn chưa chơi giỏi lắm, nhưng tôi đang tiến bộ.",
+          "audio_file": "introducing-yourself/introducing-yourself-11.mp3"
+        },
+        {
+          "id": "introducing-yourself-12",
+          "text": "On weekends, I usually explore the city with my friends.",
+          "translation": "Vào cuối tuần, tôi thường khám phá thành phố cùng bạn bè.",
+          "audio_file": "introducing-yourself/introducing-yourself-12.mp3"
+        },
+        {
+          "id": "introducing-yourself-13",
+          "text": "We often look for new places to eat or drink coffee.",
+          "translation": "Chúng tôi thường tìm những nơi mới để ăn uống hoặc uống cà phê.",
+          "audio_file": "introducing-yourself/introducing-yourself-13.mp3"
+        },
+        {
+          "id": "introducing-yourself-14",
+          "text": "I'm a little quiet when I first meet someone.",
+          "translation": "Tôi hơi ít nói khi mới gặp ai đó.",
+          "audio_file": "introducing-yourself/introducing-yourself-14.mp3"
+        },
+        {
+          "id": "introducing-yourself-15",
+          "text": "Once I feel comfortable, though, I become much more talkative.",
+          "translation": "Tuy nhiên, khi cảm thấy thoải mái, tôi trở nên nói nhiều hơn hẳn.",
+          "audio_file": "introducing-yourself/introducing-yourself-15.mp3"
+        },
+        {
+          "id": "introducing-yourself-16",
+          "text": "I enjoy meeting people from different backgrounds.",
+          "translation": "Tôi thích gặp gỡ những người có xuất thân khác nhau.",
+          "audio_file": "introducing-yourself/introducing-yourself-16.mp3"
+        },
+        {
+          "id": "introducing-yourself-17",
+          "text": "There's always something interesting to learn from them.",
+          "translation": "Luôn có điều gì đó thú vị để học hỏi từ họ.",
+          "audio_file": "introducing-yourself/introducing-yourself-17.mp3"
+        },
+        {
+          "id": "introducing-yourself-18",
+          "text": "One of my goals this year is to speak English more confidently.",
+          "translation": "Một trong những mục tiêu của tôi năm nay là nói tiếng Anh tự tin hơn.",
+          "audio_file": "introducing-yourself/introducing-yourself-18.mp3"
+        },
+        {
+          "id": "introducing-yourself-19",
+          "text": "That's one reason I try to practice a little every day.",
+          "translation": "Đó là một lý do tôi cố gắng luyện tập một chút mỗi ngày.",
+          "audio_file": "introducing-yourself/introducing-yourself-19.mp3"
+        },
+        {
+          "id": "introducing-yourself-20",
+          "text": "Anyway, that's a little bit about me, so tell me about yourself.",
+          "translation": "Dù sao thì đó là đôi chút về tôi, còn bạn hãy kể về mình nhé.",
+          "audio_file": "introducing-yourself/introducing-yourself-20.mp3"
+        }
+      ]
+    },
+    {
+      "id": "ordering-food",
+      "title": "Ordering Food at a Restaurant",
+      "title_vi": "Gọi món tại nhà hàng",
+      "level": "A1",
+      "topic": "food_and_restaurants",
+      "sentences": [
+        {
+          "id": "ordering-food-01",
+          "text": "Good evening, do you have a table for two?",
+          "translation": "Chào buổi tối, nhà hàng còn bàn cho hai người không?",
+          "audio_file": "ordering-food/ordering-food-01.mp3"
+        },
+        {
+          "id": "ordering-food-02",
+          "text": "We don't have a reservation, but we don't mind waiting.",
+          "translation": "Chúng tôi không đặt bàn trước, nhưng chúng tôi không ngại chờ.",
+          "audio_file": "ordering-food/ordering-food-02.mp3"
+        },
+        {
+          "id": "ordering-food-03",
+          "text": "A table by the window would be great, if one is available.",
+          "translation": "Một chiếc bàn cạnh cửa sổ sẽ rất tuyệt, nếu còn bàn trống.",
+          "audio_file": "ordering-food/ordering-food-03.mp3"
+        },
+        {
+          "id": "ordering-food-04",
+          "text": "Thank you, this table is perfect.",
+          "translation": "Cảm ơn bạn, bàn này rất phù hợp.",
+          "audio_file": "ordering-food/ordering-food-04.mp3"
+        },
+        {
+          "id": "ordering-food-05",
+          "text": "Could we have a few minutes to look at the menu?",
+          "translation": "Cho chúng tôi vài phút để xem thực đơn được không?",
+          "audio_file": "ordering-food/ordering-food-05.mp3"
+        },
+        {
+          "id": "ordering-food-06",
+          "text": "Everything looks good, so it's hard to choose.",
+          "translation": "Món nào trông cũng ngon, nên thật khó để lựa chọn.",
+          "audio_file": "ordering-food/ordering-food-06.mp3"
+        },
+        {
+          "id": "ordering-food-07",
+          "text": "What do you recommend for someone who likes spicy food?",
+          "translation": "Bạn gợi ý món gì cho người thích đồ ăn cay?",
+          "audio_file": "ordering-food/ordering-food-07.mp3"
+        },
+        {
+          "id": "ordering-food-08",
+          "text": "Is the chicken curry very spicy, or just a little spicy?",
+          "translation": "Món cà ri gà rất cay hay chỉ hơi cay thôi?",
+          "audio_file": "ordering-food/ordering-food-08.mp3"
+        },
+        {
+          "id": "ordering-food-09",
+          "text": "That sounds good, so I'll have the chicken curry.",
+          "translation": "Nghe ngon đấy, vậy tôi sẽ gọi món cà ri gà.",
+          "audio_file": "ordering-food/ordering-food-09.mp3"
+        },
+        {
+          "id": "ordering-food-10",
+          "text": "Could I get rice instead of bread with that?",
+          "translation": "Tôi có thể dùng cơm thay cho bánh mì kèm món đó không?",
+          "audio_file": "ordering-food/ordering-food-10.mp3"
+        },
+        {
+          "id": "ordering-food-11",
+          "text": "My friend will have the grilled fish and a side salad.",
+          "translation": "Bạn tôi sẽ gọi cá nướng và một phần salad ăn kèm.",
+          "audio_file": "ordering-food/ordering-food-11.mp3"
+        },
+        {
+          "id": "ordering-food-12",
+          "text": "Please put the dressing on the side.",
+          "translation": "Vui lòng để nước xốt riêng bên cạnh.",
+          "audio_file": "ordering-food/ordering-food-12.mp3"
+        },
+        {
+          "id": "ordering-food-13",
+          "text": "I'd also like a glass of water with no ice, please.",
+          "translation": "Tôi cũng muốn một ly nước không đá.",
+          "audio_file": "ordering-food/ordering-food-13.mp3"
+        },
+        {
+          "id": "ordering-food-14",
+          "text": "For now, that's everything, thank you.",
+          "translation": "Hiện tại chúng tôi gọi vậy thôi, cảm ơn bạn.",
+          "audio_file": "ordering-food/ordering-food-14.mp3"
+        },
+        {
+          "id": "ordering-food-15",
+          "text": "Excuse me, could we get another bottle of water?",
+          "translation": "Xin lỗi, cho chúng tôi thêm một chai nước được không?",
+          "audio_file": "ordering-food/ordering-food-15.mp3"
+        },
+        {
+          "id": "ordering-food-16",
+          "text": "The food is delicious, and the curry has just the right amount of spice.",
+          "translation": "Đồ ăn rất ngon, và món cà ri có độ cay vừa phải.",
+          "audio_file": "ordering-food/ordering-food-16.mp3"
+        },
+        {
+          "id": "ordering-food-17",
+          "text": "We're quite full, so we'll skip dessert tonight.",
+          "translation": "Chúng tôi khá no rồi, nên tối nay sẽ không dùng món tráng miệng.",
+          "audio_file": "ordering-food/ordering-food-17.mp3"
+        },
+        {
+          "id": "ordering-food-18",
+          "text": "Could we have the bill when you have a moment?",
+          "translation": "Khi nào tiện, bạn cho chúng tôi xin hóa đơn nhé?",
+          "audio_file": "ordering-food/ordering-food-18.mp3"
+        },
+        {
+          "id": "ordering-food-19",
+          "text": "Can we pay separately, or does it need to be one payment?",
+          "translation": "Chúng tôi có thể thanh toán riêng hay phải thanh toán chung?",
+          "audio_file": "ordering-food/ordering-food-19.mp3"
+        },
+        {
+          "id": "ordering-food-20",
+          "text": "Thanks for everything, we really enjoyed our meal.",
+          "translation": "Cảm ơn vì tất cả, chúng tôi thực sự rất thích bữa ăn này.",
+          "audio_file": "ordering-food/ordering-food-20.mp3"
+        }
+      ]
+    },
+    {
+      "id": "late-for-work",
+      "title": "Running Late for Work",
+      "title_vi": "Đi làm muộn",
+      "level": "A1-A2",
+      "topic": "work_and_commuting",
+      "sentences": [
+        {
+          "id": "late-for-work-01",
+          "text": "This morning started like any other weekday.",
+          "translation": "Sáng nay bắt đầu giống như mọi ngày trong tuần khác.",
+          "audio_file": "late-for-work/late-for-work-01.mp3"
+        },
+        {
+          "id": "late-for-work-02",
+          "text": "My alarm went off at six thirty, but I turned it off by mistake.",
+          "translation": "Báo thức reo lúc sáu giờ rưỡi, nhưng tôi vô tình tắt nó đi.",
+          "audio_file": "late-for-work/late-for-work-02.mp3"
+        },
+        {
+          "id": "late-for-work-03",
+          "text": "When I opened my eyes again, it was already seven fifteen.",
+          "translation": "Khi tôi mở mắt lần nữa, đã là bảy giờ mười lăm.",
+          "audio_file": "late-for-work/late-for-work-03.mp3"
+        },
+        {
+          "id": "late-for-work-04",
+          "text": "I jumped out of bed because I knew I was going to be late.",
+          "translation": "Tôi bật dậy khỏi giường vì biết mình sắp đi muộn.",
+          "audio_file": "late-for-work/late-for-work-04.mp3"
+        },
+        {
+          "id": "late-for-work-05",
+          "text": "I got dressed quickly and skipped my usual shower.",
+          "translation": "Tôi mặc quần áo thật nhanh và bỏ qua việc tắm như thường lệ.",
+          "audio_file": "late-for-work/late-for-work-05.mp3"
+        },
+        {
+          "id": "late-for-work-06",
+          "text": "There wasn't enough time to make breakfast, either.",
+          "translation": "Cũng không còn đủ thời gian để làm bữa sáng.",
+          "audio_file": "late-for-work/late-for-work-06.mp3"
+        },
+        {
+          "id": "late-for-work-07",
+          "text": "I grabbed a banana, my laptop, and my keys.",
+          "translation": "Tôi vơ lấy một quả chuối, máy tính xách tay và chìa khóa.",
+          "audio_file": "late-for-work/late-for-work-07.mp3"
+        },
+        {
+          "id": "late-for-work-08",
+          "text": "Then, I rushed downstairs and called a taxi.",
+          "translation": "Sau đó, tôi vội chạy xuống tầng dưới và gọi taxi.",
+          "audio_file": "late-for-work/late-for-work-08.mp3"
+        },
+        {
+          "id": "late-for-work-09",
+          "text": "Unfortunately, the morning traffic was much worse than usual.",
+          "translation": "Không may là giao thông buổi sáng tệ hơn bình thường rất nhiều.",
+          "audio_file": "late-for-work/late-for-work-09.mp3"
+        },
+        {
+          "id": "late-for-work-10",
+          "text": "We barely moved for almost ten minutes.",
+          "translation": "Chúng tôi gần như không di chuyển trong gần mười phút.",
+          "audio_file": "late-for-work/late-for-work-10.mp3"
+        },
+        {
+          "id": "late-for-work-11",
+          "text": "I checked the time and started to feel stressed.",
+          "translation": "Tôi xem giờ và bắt đầu cảm thấy căng thẳng.",
+          "audio_file": "late-for-work/late-for-work-11.mp3"
+        },
+        {
+          "id": "late-for-work-12",
+          "text": "My first meeting was supposed to begin at eight thirty.",
+          "translation": "Cuộc họp đầu tiên của tôi lẽ ra bắt đầu lúc tám giờ rưỡi.",
+          "audio_file": "late-for-work/late-for-work-12.mp3"
+        },
+        {
+          "id": "late-for-work-13",
+          "text": "I sent my manager a message to explain the situation.",
+          "translation": "Tôi nhắn cho quản lý để giải thích tình hình.",
+          "audio_file": "late-for-work/late-for-work-13.mp3"
+        },
+        {
+          "id": "late-for-work-14",
+          "text": "I told her I would arrive about fifteen minutes late.",
+          "translation": "Tôi nói với cô ấy rằng mình sẽ đến muộn khoảng mười lăm phút.",
+          "audio_file": "late-for-work/late-for-work-14.mp3"
+        },
+        {
+          "id": "late-for-work-15",
+          "text": "Luckily, she understood and moved the meeting back a little.",
+          "translation": "May mắn là cô ấy thông cảm và lùi cuộc họp lại một chút.",
+          "audio_file": "late-for-work/late-for-work-15.mp3"
+        },
+        {
+          "id": "late-for-work-16",
+          "text": "I finally reached the office at eight forty-five.",
+          "translation": "Cuối cùng tôi đến văn phòng lúc tám giờ bốn mươi lăm.",
+          "audio_file": "late-for-work/late-for-work-16.mp3"
+        },
+        {
+          "id": "late-for-work-17",
+          "text": "I apologized to everyone before we got started.",
+          "translation": "Tôi xin lỗi mọi người trước khi chúng tôi bắt đầu.",
+          "audio_file": "late-for-work/late-for-work-17.mp3"
+        },
+        {
+          "id": "late-for-work-18",
+          "text": "The rest of the morning went surprisingly well.",
+          "translation": "Phần còn lại của buổi sáng diễn ra tốt đẹp một cách đáng ngạc nhiên.",
+          "audio_file": "late-for-work/late-for-work-18.mp3"
+        },
+        {
+          "id": "late-for-work-19",
+          "text": "Still, I don't want to go through that again.",
+          "translation": "Dù vậy, tôi không muốn trải qua chuyện đó lần nữa.",
+          "audio_file": "late-for-work/late-for-work-19.mp3"
+        },
+        {
+          "id": "late-for-work-20",
+          "text": "Tonight, I'm setting two alarms instead of one.",
+          "translation": "Tối nay, tôi sẽ đặt hai báo thức thay vì một.",
+          "audio_file": "late-for-work/late-for-work-20.mp3"
+        }
+      ]
+    },
+    {
+      "id": "weekend-story",
+      "title": "Talking About the Weekend",
+      "title_vi": "Kể về cuối tuần",
+      "level": "A1-A2",
+      "topic": "free_time",
+      "sentences": [
+        {
+          "id": "weekend-story-01",
+          "text": "Last weekend was simple, but it was exactly what I needed.",
+          "translation": "Cuối tuần trước khá đơn giản, nhưng đó chính xác là điều tôi cần.",
+          "audio_file": "weekend-story/weekend-story-01.mp3"
+        },
+        {
+          "id": "weekend-story-02",
+          "text": "I had been busy all week, so I wanted to slow down.",
+          "translation": "Tôi đã bận cả tuần, nên tôi muốn sống chậm lại.",
+          "audio_file": "weekend-story/weekend-story-02.mp3"
+        },
+        {
+          "id": "weekend-story-03",
+          "text": "On Saturday morning, I slept until almost nine o'clock.",
+          "translation": "Sáng thứ Bảy, tôi ngủ đến gần chín giờ.",
+          "audio_file": "weekend-story/weekend-story-03.mp3"
+        },
+        {
+          "id": "weekend-story-04",
+          "text": "I made some coffee and had breakfast on my balcony.",
+          "translation": "Tôi pha cà phê và ăn sáng ngoài ban công.",
+          "audio_file": "weekend-story/weekend-story-04.mp3"
+        },
+        {
+          "id": "weekend-story-05",
+          "text": "The weather was cool, and there was a light breeze.",
+          "translation": "Thời tiết mát mẻ, và có một làn gió nhẹ.",
+          "audio_file": "weekend-story/weekend-story-05.mp3"
+        },
+        {
+          "id": "weekend-story-06",
+          "text": "After breakfast, I cleaned my apartment and did the laundry.",
+          "translation": "Sau bữa sáng, tôi dọn căn hộ và giặt quần áo.",
+          "audio_file": "weekend-story/weekend-story-06.mp3"
+        },
+        {
+          "id": "weekend-story-07",
+          "text": "It wasn't exciting, but it felt good to get everything done.",
+          "translation": "Việc đó không thú vị, nhưng hoàn thành mọi thứ khiến tôi thấy dễ chịu.",
+          "audio_file": "weekend-story/weekend-story-07.mp3"
+        },
+        {
+          "id": "weekend-story-08",
+          "text": "Around noon, a friend called and invited me to lunch.",
+          "translation": "Khoảng giữa trưa, một người bạn gọi và mời tôi đi ăn trưa.",
+          "audio_file": "weekend-story/weekend-story-08.mp3"
+        },
+        {
+          "id": "weekend-story-09",
+          "text": "We met at a small noodle shop near my apartment.",
+          "translation": "Chúng tôi gặp nhau tại một quán mì nhỏ gần căn hộ của tôi.",
+          "audio_file": "weekend-story/weekend-story-09.mp3"
+        },
+        {
+          "id": "weekend-story-10",
+          "text": "We hadn't seen each other for a month, so we had a lot to talk about.",
+          "translation": "Chúng tôi đã không gặp nhau một tháng, nên có rất nhiều chuyện để nói.",
+          "audio_file": "weekend-story/weekend-story-10.mp3"
+        },
+        {
+          "id": "weekend-story-11",
+          "text": "Later, we walked through the park and bought some ice cream.",
+          "translation": "Sau đó, chúng tôi đi dạo trong công viên và mua kem.",
+          "audio_file": "weekend-story/weekend-story-11.mp3"
+        },
+        {
+          "id": "weekend-story-12",
+          "text": "I got home before sunset and watched a movie.",
+          "translation": "Tôi về nhà trước lúc mặt trời lặn và xem một bộ phim.",
+          "audio_file": "weekend-story/weekend-story-12.mp3"
+        },
+        {
+          "id": "weekend-story-13",
+          "text": "On Sunday, I woke up early and went for a short run.",
+          "translation": "Chủ nhật, tôi thức dậy sớm và chạy bộ một quãng ngắn.",
+          "audio_file": "weekend-story/weekend-story-13.mp3"
+        },
+        {
+          "id": "weekend-story-14",
+          "text": "Then, I stopped by the market to buy fresh vegetables.",
+          "translation": "Sau đó, tôi ghé qua chợ để mua rau tươi.",
+          "audio_file": "weekend-story/weekend-story-14.mp3"
+        },
+        {
+          "id": "weekend-story-15",
+          "text": "I spent the afternoon cooking meals for the coming week.",
+          "translation": "Tôi dành buổi chiều nấu đồ ăn cho tuần sắp tới.",
+          "audio_file": "weekend-story/weekend-story-15.mp3"
+        },
+        {
+          "id": "weekend-story-16",
+          "text": "While I cooked, I listened to music and called my parents.",
+          "translation": "Trong lúc nấu ăn, tôi nghe nhạc và gọi điện cho bố mẹ.",
+          "audio_file": "weekend-story/weekend-story-16.mp3"
+        },
+        {
+          "id": "weekend-story-17",
+          "text": "In the evening, I read a book and stayed away from my phone.",
+          "translation": "Buổi tối, tôi đọc sách và tránh xa điện thoại.",
+          "audio_file": "weekend-story/weekend-story-17.mp3"
+        },
+        {
+          "id": "weekend-story-18",
+          "text": "By ten o'clock, I was already feeling sleepy.",
+          "translation": "Đến mười giờ, tôi đã cảm thấy buồn ngủ.",
+          "audio_file": "weekend-story/weekend-story-18.mp3"
+        },
+        {
+          "id": "weekend-story-19",
+          "text": "I went to bed early and woke up feeling refreshed.",
+          "translation": "Tôi đi ngủ sớm và thức dậy với cảm giác sảng khoái.",
+          "audio_file": "weekend-story/weekend-story-19.mp3"
+        },
+        {
+          "id": "weekend-story-20",
+          "text": "It wasn't a special weekend, but it was a peaceful one.",
+          "translation": "Đó không phải một cuối tuần đặc biệt, nhưng là một cuối tuần yên bình.",
+          "audio_file": "weekend-story/weekend-story-20.mp3"
+        }
+      ]
+    },
+    {
+      "id": "making-an-appointment",
+      "title": "Making a Doctor's Appointment",
+      "title_vi": "Đặt lịch hẹn với bác sĩ",
+      "level": "A2",
+      "topic": "appointments_and_health",
+      "sentences": [
+        {
+          "id": "making-an-appointment-01",
+          "text": "Hello, I'd like to make an appointment with a doctor, please.",
+          "translation": "Xin chào, tôi muốn đặt lịch hẹn với bác sĩ.",
+          "audio_file": "making-an-appointment/making-an-appointment-01.mp3"
+        },
+        {
+          "id": "making-an-appointment-02",
+          "text": "I've had a sore throat for the past three days.",
+          "translation": "Tôi đã bị đau họng trong ba ngày qua.",
+          "audio_file": "making-an-appointment/making-an-appointment-02.mp3"
+        },
+        {
+          "id": "making-an-appointment-03",
+          "text": "I also have a slight fever, and I'm feeling very tired.",
+          "translation": "Tôi cũng bị sốt nhẹ và cảm thấy rất mệt.",
+          "audio_file": "making-an-appointment/making-an-appointment-03.mp3"
+        },
+        {
+          "id": "making-an-appointment-04",
+          "text": "No, I haven't visited this clinic before.",
+          "translation": "Không, trước đây tôi chưa từng đến phòng khám này.",
+          "audio_file": "making-an-appointment/making-an-appointment-04.mp3"
+        },
+        {
+          "id": "making-an-appointment-05",
+          "text": "My full name is Alex Morgan.",
+          "translation": "Họ tên đầy đủ của tôi là Alex Morgan.",
+          "audio_file": "making-an-appointment/making-an-appointment-05.mp3"
+        },
+        {
+          "id": "making-an-appointment-06",
+          "text": "My date of birth is May twelfth, nineteen ninety-five.",
+          "translation": "Ngày sinh của tôi là ngày 12 tháng 5 năm 1995.",
+          "audio_file": "making-an-appointment/making-an-appointment-06.mp3"
+        },
+        {
+          "id": "making-an-appointment-07",
+          "text": "You can reach me at this phone number.",
+          "translation": "Bạn có thể liên hệ với tôi qua số điện thoại này.",
+          "audio_file": "making-an-appointment/making-an-appointment-07.mp3"
+        },
+        {
+          "id": "making-an-appointment-08",
+          "text": "Do you have any appointments available this afternoon?",
+          "translation": "Chiều nay phòng khám còn lịch hẹn nào không?",
+          "audio_file": "making-an-appointment/making-an-appointment-08.mp3"
+        },
+        {
+          "id": "making-an-appointment-09",
+          "text": "Three o'clock is a little difficult because I have a meeting.",
+          "translation": "Ba giờ hơi khó cho tôi vì tôi có một cuộc họp.",
+          "audio_file": "making-an-appointment/making-an-appointment-09.mp3"
+        },
+        {
+          "id": "making-an-appointment-10",
+          "text": "Would four thirty be possible instead?",
+          "translation": "Thay vào đó, bốn giờ rưỡi có được không?",
+          "audio_file": "making-an-appointment/making-an-appointment-10.mp3"
+        },
+        {
+          "id": "making-an-appointment-11",
+          "text": "That works for me, so please book that time.",
+          "translation": "Giờ đó phù hợp với tôi, vui lòng đặt lịch đó.",
+          "audio_file": "making-an-appointment/making-an-appointment-11.mp3"
+        },
+        {
+          "id": "making-an-appointment-12",
+          "text": "Which doctor will I be seeing?",
+          "translation": "Tôi sẽ khám với bác sĩ nào?",
+          "audio_file": "making-an-appointment/making-an-appointment-12.mp3"
+        },
+        {
+          "id": "making-an-appointment-13",
+          "text": "Could you spell the doctor's last name for me?",
+          "translation": "Bạn có thể đánh vần họ của bác sĩ giúp tôi không?",
+          "audio_file": "making-an-appointment/making-an-appointment-13.mp3"
+        },
+        {
+          "id": "making-an-appointment-14",
+          "text": "Thank you, I've written it down.",
+          "translation": "Cảm ơn bạn, tôi đã ghi lại rồi.",
+          "audio_file": "making-an-appointment/making-an-appointment-14.mp3"
+        },
+        {
+          "id": "making-an-appointment-15",
+          "text": "Is there anything I need to bring with me?",
+          "translation": "Tôi có cần mang theo thứ gì không?",
+          "audio_file": "making-an-appointment/making-an-appointment-15.mp3"
+        },
+        {
+          "id": "making-an-appointment-16",
+          "text": "I'll bring my identification and insurance card.",
+          "translation": "Tôi sẽ mang theo giấy tờ tùy thân và thẻ bảo hiểm.",
+          "audio_file": "making-an-appointment/making-an-appointment-16.mp3"
+        },
+        {
+          "id": "making-an-appointment-17",
+          "text": "How early should I arrive before the appointment?",
+          "translation": "Tôi nên đến sớm bao lâu trước giờ hẹn?",
+          "audio_file": "making-an-appointment/making-an-appointment-17.mp3"
+        },
+        {
+          "id": "making-an-appointment-18",
+          "text": "All right, I'll be there fifteen minutes early.",
+          "translation": "Được rồi, tôi sẽ đến sớm mười lăm phút.",
+          "audio_file": "making-an-appointment/making-an-appointment-18.mp3"
+        },
+        {
+          "id": "making-an-appointment-19",
+          "text": "Let me confirm, my appointment is today at four thirty.",
+          "translation": "Để tôi xác nhận lại, lịch hẹn của tôi là hôm nay lúc bốn giờ rưỡi.",
+          "audio_file": "making-an-appointment/making-an-appointment-19.mp3"
+        },
+        {
+          "id": "making-an-appointment-20",
+          "text": "Great, thank you very much for your help.",
+          "translation": "Tuyệt, cảm ơn bạn rất nhiều vì đã giúp đỡ.",
+          "audio_file": "making-an-appointment/making-an-appointment-20.mp3"
+        }
+      ]
+    },
+    {
+      "id": "describing-a-problem",
+      "title": "Describing an Internet Problem",
+      "title_vi": "Mô tả sự cố Internet",
+      "level": "A2",
+      "topic": "problems_and_customer_service",
+      "sentences": [
+        {
+          "id": "describing-a-problem-01",
+          "text": "Hi, I'm calling because my home Internet isn't working properly.",
+          "translation": "Xin chào, tôi gọi vì Internet tại nhà đang không hoạt động bình thường.",
+          "audio_file": "describing-a-problem/describing-a-problem-01.mp3"
+        },
+        {
+          "id": "describing-a-problem-02",
+          "text": "The connection has been slow since yesterday evening.",
+          "translation": "Kết nối đã bị chậm từ tối hôm qua.",
+          "audio_file": "describing-a-problem/describing-a-problem-02.mp3"
+        },
+        {
+          "id": "describing-a-problem-03",
+          "text": "This morning, it stopped working completely.",
+          "translation": "Sáng nay, nó ngừng hoạt động hoàn toàn.",
+          "audio_file": "describing-a-problem/describing-a-problem-03.mp3"
+        },
+        {
+          "id": "describing-a-problem-04",
+          "text": "The power light is on, but the Internet light keeps flashing.",
+          "translation": "Đèn nguồn vẫn sáng, nhưng đèn Internet cứ nhấp nháy.",
+          "audio_file": "describing-a-problem/describing-a-problem-04.mp3"
+        },
+        {
+          "id": "describing-a-problem-05",
+          "text": "I've already restarted the router twice.",
+          "translation": "Tôi đã khởi động lại bộ định tuyến hai lần.",
+          "audio_file": "describing-a-problem/describing-a-problem-05.mp3"
+        },
+        {
+          "id": "describing-a-problem-06",
+          "text": "I also checked the cables, and they seem to be connected correctly.",
+          "translation": "Tôi cũng đã kiểm tra dây cáp, và chúng có vẻ được kết nối đúng.",
+          "audio_file": "describing-a-problem/describing-a-problem-06.mp3"
+        },
+        {
+          "id": "describing-a-problem-07",
+          "text": "The problem affects both my laptop and my phone.",
+          "translation": "Sự cố ảnh hưởng đến cả máy tính xách tay và điện thoại của tôi.",
+          "audio_file": "describing-a-problem/describing-a-problem-07.mp3"
+        },
+        {
+          "id": "describing-a-problem-08",
+          "text": "Neither device can connect to the network right now.",
+          "translation": "Hiện tại cả hai thiết bị đều không thể kết nối với mạng.",
+          "audio_file": "describing-a-problem/describing-a-problem-08.mp3"
+        },
+        {
+          "id": "describing-a-problem-09",
+          "text": "Yes, I can give you my account number.",
+          "translation": "Vâng, tôi có thể cung cấp số tài khoản của mình.",
+          "audio_file": "describing-a-problem/describing-a-problem-09.mp3"
+        },
+        {
+          "id": "describing-a-problem-10",
+          "text": "The service address is the same as the address on my account.",
+          "translation": "Địa chỉ sử dụng dịch vụ giống với địa chỉ trên tài khoản của tôi.",
+          "audio_file": "describing-a-problem/describing-a-problem-10.mp3"
+        },
+        {
+          "id": "describing-a-problem-11",
+          "text": "Could you check whether there's an outage in my area?",
+          "translation": "Bạn có thể kiểm tra xem khu vực của tôi có bị mất mạng không?",
+          "audio_file": "describing-a-problem/describing-a-problem-11.mp3"
+        },
+        {
+          "id": "describing-a-problem-12",
+          "text": "I understand, so the problem is probably inside my apartment.",
+          "translation": "Tôi hiểu, vậy có lẽ vấn đề nằm trong căn hộ của tôi.",
+          "audio_file": "describing-a-problem/describing-a-problem-12.mp3"
+        },
+        {
+          "id": "describing-a-problem-13",
+          "text": "What would you like me to try next?",
+          "translation": "Tiếp theo bạn muốn tôi thử làm gì?",
+          "audio_file": "describing-a-problem/describing-a-problem-13.mp3"
+        },
+        {
+          "id": "describing-a-problem-14",
+          "text": "All right, I'll unplug the router for thirty seconds.",
+          "translation": "Được rồi, tôi sẽ rút nguồn bộ định tuyến trong ba mươi giây.",
+          "audio_file": "describing-a-problem/describing-a-problem-14.mp3"
+        },
+        {
+          "id": "describing-a-problem-15",
+          "text": "I've plugged it back in, and the lights are coming on now.",
+          "translation": "Tôi đã cắm lại, và các đèn đang sáng lên.",
+          "audio_file": "describing-a-problem/describing-a-problem-15.mp3"
+        },
+        {
+          "id": "describing-a-problem-16",
+          "text": "Unfortunately, I still can't open any websites.",
+          "translation": "Không may là tôi vẫn không thể mở bất kỳ trang web nào.",
+          "audio_file": "describing-a-problem/describing-a-problem-16.mp3"
+        },
+        {
+          "id": "describing-a-problem-17",
+          "text": "Could you send a technician to take a look?",
+          "translation": "Bạn có thể cử kỹ thuật viên đến kiểm tra không?",
+          "audio_file": "describing-a-problem/describing-a-problem-17.mp3"
+        },
+        {
+          "id": "describing-a-problem-18",
+          "text": "Tomorrow morning is fine, as long as it's before eleven.",
+          "translation": "Sáng mai được, miễn là trước mười một giờ.",
+          "audio_file": "describing-a-problem/describing-a-problem-18.mp3"
+        },
+        {
+          "id": "describing-a-problem-19",
+          "text": "Please ask the technician to call me before arriving.",
+          "translation": "Vui lòng nhờ kỹ thuật viên gọi cho tôi trước khi đến.",
+          "audio_file": "describing-a-problem/describing-a-problem-19.mp3"
+        },
+        {
+          "id": "describing-a-problem-20",
+          "text": "Thank you, I hope we can get this fixed soon.",
+          "translation": "Cảm ơn bạn, tôi hy vọng chúng ta có thể sớm khắc phục sự cố này.",
+          "audio_file": "describing-a-problem/describing-a-problem-20.mp3"
+        }
+      ]
+    },
+    {
+      "id": "giving-an-opinion",
+      "title": "Giving an Opinion About Remote Work",
+      "title_vi": "Đưa ra ý kiến về làm việc từ xa",
+      "level": "A2",
+      "topic": "opinions_and_work",
+      "sentences": [
+        {
+          "id": "giving-an-opinion-01",
+          "text": "People often ask whether I prefer working from home or in an office.",
+          "translation": "Mọi người thường hỏi tôi thích làm việc tại nhà hay ở văn phòng hơn.",
+          "audio_file": "giving-an-opinion/giving-an-opinion-01.mp3"
+        },
+        {
+          "id": "giving-an-opinion-02",
+          "text": "Personally, I think both options have clear advantages.",
+          "translation": "Cá nhân tôi cho rằng cả hai lựa chọn đều có những ưu điểm rõ ràng.",
+          "audio_file": "giving-an-opinion/giving-an-opinion-02.mp3"
+        },
+        {
+          "id": "giving-an-opinion-03",
+          "text": "Working from home saves me a lot of travel time.",
+          "translation": "Làm việc tại nhà giúp tôi tiết kiệm rất nhiều thời gian đi lại.",
+          "audio_file": "giving-an-opinion/giving-an-opinion-03.mp3"
+        },
+        {
+          "id": "giving-an-opinion-04",
+          "text": "I can start my day calmly instead of sitting in traffic.",
+          "translation": "Tôi có thể bắt đầu ngày mới một cách bình tĩnh thay vì ngồi giữa dòng xe cộ.",
+          "audio_file": "giving-an-opinion/giving-an-opinion-04.mp3"
+        },
+        {
+          "id": "giving-an-opinion-05",
+          "text": "It's also easier to focus when I need to do quiet work.",
+          "translation": "Tôi cũng dễ tập trung hơn khi cần làm công việc yên tĩnh.",
+          "audio_file": "giving-an-opinion/giving-an-opinion-05.mp3"
+        },
+        {
+          "id": "giving-an-opinion-06",
+          "text": "However, staying home all day can sometimes feel lonely.",
+          "translation": "Tuy nhiên, ở nhà cả ngày đôi khi có thể khiến tôi cảm thấy cô đơn.",
+          "audio_file": "giving-an-opinion/giving-an-opinion-06.mp3"
+        },
+        {
+          "id": "giving-an-opinion-07",
+          "text": "Online meetings aren't always as natural as face-to-face conversations.",
+          "translation": "Các cuộc họp trực tuyến không phải lúc nào cũng tự nhiên như trò chuyện trực tiếp.",
+          "audio_file": "giving-an-opinion/giving-an-opinion-07.mp3"
+        },
+        {
+          "id": "giving-an-opinion-08",
+          "text": "Small questions can take longer to solve when everyone is remote.",
+          "translation": "Những câu hỏi nhỏ có thể mất nhiều thời gian giải quyết hơn khi mọi người đều làm từ xa.",
+          "audio_file": "giving-an-opinion/giving-an-opinion-08.mp3"
+        },
+        {
+          "id": "giving-an-opinion-09",
+          "text": "In the office, I can simply walk over and ask a coworker.",
+          "translation": "Ở văn phòng, tôi có thể đơn giản đi sang và hỏi một đồng nghiệp.",
+          "audio_file": "giving-an-opinion/giving-an-opinion-09.mp3"
+        },
+        {
+          "id": "giving-an-opinion-10",
+          "text": "Being together also makes it easier to share ideas.",
+          "translation": "Làm việc cùng nhau cũng giúp việc chia sẻ ý tưởng dễ dàng hơn.",
+          "audio_file": "giving-an-opinion/giving-an-opinion-10.mp3"
+        },
+        {
+          "id": "giving-an-opinion-11",
+          "text": "On the other hand, offices can be noisy and distracting.",
+          "translation": "Mặt khác, văn phòng có thể ồn ào và gây mất tập trung.",
+          "audio_file": "giving-an-opinion/giving-an-opinion-11.mp3"
+        },
+        {
+          "id": "giving-an-opinion-12",
+          "text": "Some people also spend hours commuting every week.",
+          "translation": "Một số người còn mất hàng giờ để đi lại mỗi tuần.",
+          "audio_file": "giving-an-opinion/giving-an-opinion-12.mp3"
+        },
+        {
+          "id": "giving-an-opinion-13",
+          "text": "For me, a flexible schedule is probably the best solution.",
+          "translation": "Với tôi, một lịch làm việc linh hoạt có lẽ là giải pháp tốt nhất.",
+          "audio_file": "giving-an-opinion/giving-an-opinion-13.mp3"
+        },
+        {
+          "id": "giving-an-opinion-14",
+          "text": "I'd like to work from home two or three days a week.",
+          "translation": "Tôi muốn làm việc tại nhà hai hoặc ba ngày mỗi tuần.",
+          "audio_file": "giving-an-opinion/giving-an-opinion-14.mp3"
+        },
+        {
+          "id": "giving-an-opinion-15",
+          "text": "The rest of the time, I'd go to the office to meet my team.",
+          "translation": "Thời gian còn lại, tôi sẽ đến văn phòng để gặp nhóm của mình.",
+          "audio_file": "giving-an-opinion/giving-an-opinion-15.mp3"
+        },
+        {
+          "id": "giving-an-opinion-16",
+          "text": "That balance would give me both focus and social contact.",
+          "translation": "Sự cân bằng đó sẽ cho tôi cả khả năng tập trung lẫn giao tiếp xã hội.",
+          "audio_file": "giving-an-opinion/giving-an-opinion-16.mp3"
+        },
+        {
+          "id": "giving-an-opinion-17",
+          "text": "Of course, not every job can offer that kind of flexibility.",
+          "translation": "Tất nhiên, không phải công việc nào cũng có thể mang lại sự linh hoạt như vậy.",
+          "audio_file": "giving-an-opinion/giving-an-opinion-17.mp3"
+        },
+        {
+          "id": "giving-an-opinion-18",
+          "text": "Companies need to consider what works for their employees and customers.",
+          "translation": "Các công ty cần cân nhắc điều gì phù hợp với nhân viên và khách hàng của họ.",
+          "audio_file": "giving-an-opinion/giving-an-opinion-18.mp3"
+        },
+        {
+          "id": "giving-an-opinion-19",
+          "text": "I don't believe there's one perfect answer for everyone.",
+          "translation": "Tôi không tin rằng có một câu trả lời hoàn hảo cho tất cả mọi người.",
+          "audio_file": "giving-an-opinion/giving-an-opinion-19.mp3"
+        },
+        {
+          "id": "giving-an-opinion-20",
+          "text": "The best choice depends on the person, the team, and the type of work.",
+          "translation": "Lựa chọn tốt nhất phụ thuộc vào từng người, từng nhóm và loại công việc.",
+          "audio_file": "giving-an-opinion/giving-an-opinion-20.mp3"
+        }
+      ]
+    },
+    {
+      "id": "making-small-talk",
+      "title": "Making Small Talk With a New Coworker",
+      "title_vi": "Trò chuyện xã giao với đồng nghiệp mới",
+      "level": "A1-A2",
+      "topic": "social_conversation",
+      "sentences": [
+        {
+          "id": "making-small-talk-01",
+          "text": "Hi, I don't think we've met before.",
+          "translation": "Chào bạn, tôi nghĩ chúng ta chưa từng gặp nhau.",
+          "audio_file": "making-small-talk/making-small-talk-01.mp3"
+        },
+        {
+          "id": "making-small-talk-02",
+          "text": "I'm Mia, and I work with the marketing team.",
+          "translation": "Tôi là Mia, và tôi làm việc với nhóm tiếp thị.",
+          "audio_file": "making-small-talk/making-small-talk-02.mp3"
+        },
+        {
+          "id": "making-small-talk-03",
+          "text": "You must be the new designer everyone has been talking about.",
+          "translation": "Chắc bạn là nhà thiết kế mới mà mọi người vẫn nhắc đến.",
+          "audio_file": "making-small-talk/making-small-talk-03.mp3"
+        },
+        {
+          "id": "making-small-talk-04",
+          "text": "How has your first week been so far?",
+          "translation": "Tuần làm việc đầu tiên của bạn đến giờ thế nào?",
+          "audio_file": "making-small-talk/making-small-talk-04.mp3"
+        },
+        {
+          "id": "making-small-talk-05",
+          "text": "I'm glad to hear that everyone has been helpful.",
+          "translation": "Tôi rất vui khi biết mọi người đều nhiệt tình giúp đỡ.",
+          "audio_file": "making-small-talk/making-small-talk-05.mp3"
+        },
+        {
+          "id": "making-small-talk-06",
+          "text": "It can take a little time to learn where everything is.",
+          "translation": "Có thể mất một chút thời gian để biết mọi thứ nằm ở đâu.",
+          "audio_file": "making-small-talk/making-small-talk-06.mp3"
+        },
+        {
+          "id": "making-small-talk-07",
+          "text": "Have you found the coffee machine yet?",
+          "translation": "Bạn đã tìm thấy máy pha cà phê chưa?",
+          "audio_file": "making-small-talk/making-small-talk-07.mp3"
+        },
+        {
+          "id": "making-small-talk-08",
+          "text": "Honestly, that's probably the most important thing in this office.",
+          "translation": "Thật lòng mà nói, đó có lẽ là thứ quan trọng nhất trong văn phòng này.",
+          "audio_file": "making-small-talk/making-small-talk-08.mp3"
+        },
+        {
+          "id": "making-small-talk-09",
+          "text": "Did you move here for the job, or were you already living nearby?",
+          "translation": "Bạn chuyển đến đây vì công việc hay đã sống gần đây từ trước?",
+          "audio_file": "making-small-talk/making-small-talk-09.mp3"
+        },
+        {
+          "id": "making-small-talk-10",
+          "text": "That sounds like a big change, but an exciting one.",
+          "translation": "Nghe có vẻ là một thay đổi lớn, nhưng cũng rất thú vị.",
+          "audio_file": "making-small-talk/making-small-talk-10.mp3"
+        },
+        {
+          "id": "making-small-talk-11",
+          "text": "Which part of the city are you living in?",
+          "translation": "Bạn đang sống ở khu vực nào trong thành phố?",
+          "audio_file": "making-small-talk/making-small-talk-11.mp3"
+        },
+        {
+          "id": "making-small-talk-12",
+          "text": "I know that area, and there are some great restaurants there.",
+          "translation": "Tôi biết khu vực đó, và ở đó có vài nhà hàng rất ngon.",
+          "audio_file": "making-small-talk/making-small-talk-12.mp3"
+        },
+        {
+          "id": "making-small-talk-13",
+          "text": "Do you enjoy trying different kinds of food?",
+          "translation": "Bạn có thích thử nhiều loại đồ ăn khác nhau không?",
+          "audio_file": "making-small-talk/making-small-talk-13.mp3"
+        },
+        {
+          "id": "making-small-talk-14",
+          "text": "A few of us usually go out for lunch on Fridays.",
+          "translation": "Một vài người trong chúng tôi thường ra ngoài ăn trưa vào thứ Sáu.",
+          "audio_file": "making-small-talk/making-small-talk-14.mp3"
+        },
+        {
+          "id": "making-small-talk-15",
+          "text": "You're welcome to join us this week, if you'd like.",
+          "translation": "Bạn có thể tham gia cùng chúng tôi tuần này nếu muốn.",
+          "audio_file": "making-small-talk/making-small-talk-15.mp3"
+        },
+        {
+          "id": "making-small-talk-16",
+          "text": "We haven't chosen a place yet, so suggestions are welcome.",
+          "translation": "Chúng tôi vẫn chưa chọn địa điểm, nên mọi gợi ý đều được hoan nghênh.",
+          "audio_file": "making-small-talk/making-small-talk-16.mp3"
+        },
+        {
+          "id": "making-small-talk-17",
+          "text": "By the way, how are you getting to work each day?",
+          "translation": "Nhân tiện, mỗi ngày bạn đi làm bằng cách nào?",
+          "audio_file": "making-small-talk/making-small-talk-17.mp3"
+        },
+        {
+          "id": "making-small-talk-18",
+          "text": "The bus is convenient, but it gets crowded in the morning.",
+          "translation": "Xe buýt khá tiện, nhưng buổi sáng thường đông.",
+          "audio_file": "making-small-talk/making-small-talk-18.mp3"
+        },
+        {
+          "id": "making-small-talk-19",
+          "text": "If you need help with anything, feel free to ask me.",
+          "translation": "Nếu bạn cần giúp bất cứ điều gì, cứ thoải mái hỏi tôi.",
+          "audio_file": "making-small-talk/making-small-talk-19.mp3"
+        },
+        {
+          "id": "making-small-talk-20",
+          "text": "It was nice talking to you, and I'll see you around the office.",
+          "translation": "Rất vui được trò chuyện với bạn, và hẹn gặp lại bạn quanh văn phòng.",
+          "audio_file": "making-small-talk/making-small-talk-20.mp3"
+        }
+      ]
+    }
+  ]
+}
