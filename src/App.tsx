@@ -1,41 +1,28 @@
-import { NavLink, Route, Routes } from "react-router-dom";
-import { EpisodesPage } from "./pages/EpisodesPage";
-import { EpisodeDetailPage } from "./pages/EpisodeDetailPage";
-import { ProgressPage } from "./pages/ProgressPage";
-import { useTheme } from "./lib/theme";
+import { HashRouter, Navigate, Route, Routes } from "react-router-dom";
+import Home from "./pages/Home";
+import InvitationPage from "./pages/InvitationPage";
 
-export function App() {
-  const { theme, toggle } = useTheme();
+// VITE_INVITATION_ID (đọc lúc build): có giá trị → site chỉ present đúng thiệp đó tại "/",
+// không có trang danh sách. Để trống → "/" là danh sách, mỗi thiệp ở "/#/<slug>".
+const PRESENT_ID = import.meta.env.VITE_INVITATION_ID?.trim();
 
+// HashRouter: static hosting needs no SPA rewrite rule. URLs look like /#/dau-tay.
+export default function App() {
   return (
-    <div className="app-shell">
-      <nav className="top-nav">
-        <div className="nav-left">
-          <NavLink to="/" end className="brand">
-            Mimic
-          </NavLink>
-          <NavLink to="/progress" className={({ isActive }) => (isActive ? "nav-link nav-link-active" : "nav-link")}>
-            Tiến độ
-          </NavLink>
-        </div>
-        <button
-          type="button"
-          className="ios-switch"
-          role="switch"
-          aria-checked={theme === "dark"}
-          aria-label="Chế độ tối"
-          onClick={toggle}
-        >
-          <span className="ios-switch-knob" />
-        </button>
-      </nav>
-      <main className="app-main">
-        <Routes>
-          <Route path="/" element={<EpisodesPage />} />
-          <Route path="/episode/:id" element={<EpisodeDetailPage />} />
-          <Route path="/progress" element={<ProgressPage />} />
-        </Routes>
-      </main>
-    </div>
+    <HashRouter>
+      <Routes>
+        {PRESENT_ID ? (
+          <>
+            <Route path="/" element={<InvitationPage slug={PRESENT_ID} />} />
+            <Route path="*" element={<Navigate to="/" replace />} />
+          </>
+        ) : (
+          <>
+            <Route path="/" element={<Home />} />
+            <Route path="/:slug" element={<InvitationPage />} />
+          </>
+        )}
+      </Routes>
+    </HashRouter>
   );
 }
