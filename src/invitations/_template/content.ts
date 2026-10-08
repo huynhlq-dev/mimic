@@ -9,6 +9,19 @@ export const content = {
   // Màn mở đầu tự chuyển sang màn chính sau ngần này giây (chạm vào màn hình để bỏ qua).
   introSeconds: 6,
 
+  // Nhạc nền lặp lại liên tục: tên file trong src/mp3/ (để "" nếu không dùng nhạc). volume 0..1.
+  music: {
+    file: "leberch-happy-birthday.mp3",
+    volume: 0.6,
+  },
+
+  // Bìa "Chạm để mở thiệp": chỉ hiện khi trình duyệt chặn tự phát nhạc (chạm = mở khoá nhạc + mở thiệp).
+  cover: {
+    eyebrow: "You’re invited",
+    title: "Tên Bé’s 1st Birthday",
+    hint: "Tap to open",
+  },
+
   intro: {
     line1: "I blinked…",
     before: "and",
